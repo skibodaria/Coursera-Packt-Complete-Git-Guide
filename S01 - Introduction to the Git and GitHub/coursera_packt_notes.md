@@ -6,7 +6,7 @@
 ## Course 1 | Git Fundamentals – Getting Started with Git and GitHub
 [Course 1 Link](https://www.coursera.org/learn/packt-git-fundamentals-getting-started-with-git-and-github-rf1ze?specialization=packt-complete-git-guide-understand-and-master-git-and-github)
 
-### Module 1: Intro & Course Structure
+### Module 1: Intro & Course Structure.     
 [Repo](https://github.com/skibodaria/Coursera-Packt-Complete-Git-Guide)
 
 1. **Introduction to Git and GitHub**: In this module, we will introduce you to Git and GitHub, covering their significance in version control and software development. We’ll also distinguish between Git and GitHub, shedding light on their distinct roles. This section will set the foundation for your journey through Git and GitHub, focusing on the core concepts you'll need to understand.
